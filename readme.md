@@ -1,7 +1,8 @@
 # Perspective Transform
+Authors: John Trager and Daniel Stefenascu
 
-
-
+Presentation Slides (click image to open slides):<br>
+[![presentaion](https://github.com/John-Trager/Homography-Transform/blob/526ead628c0498f8032dc31a86c35d5277d460a7/media/214%20Final%20presentation.jpeg)](https://github.com/John-Trager/Homography-Transform/blob/526ead628c0498f8032dc31a86c35d5277d460a7/media/214%20Final%20presentation.pdf)
 
 
 ## How to Use
