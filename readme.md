@@ -1,4 +1,4 @@
-# Perspective Transform
+# Perspective Transform (from scratch)
 Authors: John Trager and Daniel Stefenascu
 
 Presentation Slides (click image to open slides):<br>
