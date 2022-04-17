@@ -4,8 +4,15 @@ Authors: John Trager and Daniel Stefenascu
 Presentation Slides (click image to open slides):<br>
 [![presentaion](https://github.com/John-Trager/Homography-Transform/blob/526ead628c0498f8032dc31a86c35d5277d460a7/media/214%20Final%20presentation.jpeg)](https://github.com/John-Trager/Homography-Transform/blob/526ead628c0498f8032dc31a86c35d5277d460a7/media/214%20Final%20presentation.pdf)
 
+## Results
+![QR code](media/qr_code_result.jpeg)
+
+![life cover](media/life_result.jpeg)
+
 
 ## How to Use
+Make sure that your python env has the correct deps (as specified in requirements.txt)
+
 To run the homography transform use the file `run.py`<br>
 ```
 python3 run.py -i <image path> --points_in <image points on input plane> --points_out <image points on output plane> -c <compression number>
