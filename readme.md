@@ -35,3 +35,4 @@ Argument descriptions:<br>
                     <Optional> scale/compression number
 ```
 
+The `points_in` flag takes in point pairs [x,y]. These points must be in clockwise order starting from the top left point, likewise for the points_out flag.
